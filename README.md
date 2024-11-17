@@ -1,4 +1,4 @@
-<h1>Spiceworks - Cloud-Based Help Desk RDP</h1>
+<h1>SOC Automation (Home Lab)</h1>
 
 
 <h2>Description</h2>
